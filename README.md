@@ -1,1 +1,4 @@
-# LaTex-Resume-Awesome-CV
+# LaTex Resume - Awesome CV
+
+
+![Screenshot](https://i.imgur.com/06tDLmM.jpg)
